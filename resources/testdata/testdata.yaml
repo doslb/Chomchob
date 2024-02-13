@@ -1,0 +1,8 @@
+api:
+  name: Test Name 1234
+  job: Tester
+  new_name: New Name 5678
+  new_job: New Tester
+
+web:
+  menu_cartoon: การ์ตูน
